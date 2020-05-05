@@ -12,5 +12,5 @@ Images used
 
 ## 📸Photo Splash
 
-<img src="ss/landscape.png" height="200" width="200" alt="Landscape view" />
-<img src="ss/portrait.png" height="200" width="200" alt="Portrait view"/>
+<img src="ss/landscape.png"  alt="Landscape view" />
+<img src="ss/portrait.png" alt="Portrait view"/>
